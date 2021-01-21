@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ItunesApi/static/js/main.b7c8c7a5.chunk.js",
+    "main.js.map": "/ItunesApi/static/js/main.b7c8c7a5.chunk.js.map",
+    "runtime-main.js": "/ItunesApi/static/js/runtime-main.1015d210.js",
+    "runtime-main.js.map": "/ItunesApi/static/js/runtime-main.1015d210.js.map",
+    "static/js/2.6916192f.chunk.js": "/ItunesApi/static/js/2.6916192f.chunk.js",
+    "static/js/2.6916192f.chunk.js.map": "/ItunesApi/static/js/2.6916192f.chunk.js.map",
+    "index.html": "/ItunesApi/index.html",
+    "precache-manifest.815a5c025a8eab57db4b7917a6a1e372.js": "/ItunesApi/precache-manifest.815a5c025a8eab57db4b7917a6a1e372.js",
+    "service-worker.js": "/ItunesApi/service-worker.js",
+    "static/js/2.6916192f.chunk.js.LICENSE.txt": "/ItunesApi/static/js/2.6916192f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1015d210.js",
+    "static/js/2.6916192f.chunk.js",
+    "static/js/main.b7c8c7a5.chunk.js"
+  ]
+}
